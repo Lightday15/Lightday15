@@ -1,22 +1,24 @@
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJnMm42Zm01cm91dDA2bm91cTA4ZWxvMzR3OGh0bjRoZDlhN2RoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JEgNbOVnwWqFyYiPQR/giphy.webp" width="50"/> Hi there,👋 Welcome to my GitHub profile 👩🏽‍💻
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJnMm42Zm01cm91dDA2bm91cTA4ZWxvMzR3OGh0bjRoZDlhN2RoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JEgNbOVnwWqFyYiPQR/giphy.webp" width="50"/> Hi!👋 Welcome to my GitHub Profile 👩🏽‍💻
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="300"/>
 </div>
-I'm *Lightday Valentina* , a Systems Engineer from Colombia, passionate about software development and data analysis. In my profile, you will find projects related to web development, artificial intelligence, and cybersecurity. You'll also come across projects completed during my university education, as well as other personal developments.
+I'm Lightday Valentina**, a Systems Engineer from Colombia, passionate about software development and data analysis. In my profile, you will find projects related to web development, artificial intelligence, and cybersecurity. You'll also come across projects completed during my university education, as well as other personal developments.
 
 ## About me 🫦...
 - 🔭 I'm currently working on something cool 😉 
 - 🌱 I’m currently learning Machine Learning 🤖 & English 🗣️
 - 📫 How to reach me: lightday.crr15@gmail.com
+- 📚 Student of ADSO 2/4
 - 🎯 Hobbies: reading 📚, writing 📝 & playing board games 🎲🧩🎮
 - ⚡ Fun fact: I ❤️ 🐱 🐶
 ## Soft Skills 🌟
-- Effective communication
-- Teamwork
-- Problem solving
-- Adaptability
-- Time management
+- 🗣️ Effective communication
+- 🤝 Teamwork 
+- 🧩 Problem solving 
+- 🌍 Adaptability 
+- ⏰ Time management 
+- 🎨 Creativity
 
 ## Skills💻⚙️
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -40,6 +42,7 @@ Programming Languages | Databases | Frameworks and Libraries | Video Game Develo
 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightday15&layout=compact&theme=jolly)
+
 ![Lightday GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightday15&show_icons=true&theme=jolly)
 
 <div id="header" align="left">
